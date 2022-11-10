@@ -8,6 +8,7 @@ header {
     width: 940px;
     margin: 0 auto;
 }
+
 nav {
     position: absolute;
     top: 110px;
@@ -29,7 +30,7 @@ nav a {
 
 .produtos {
     width:940px;
-    margin: 0 auto;
+    margin:50px auto;
 }
 .produtos li {
     display: inline-block;
@@ -39,6 +40,8 @@ nav a {
     margin: 0 1.5%;
     padding: 30px 20px;
     box-sizing: border-box;
+    border: 2px solid black;
+    border-radius: 10px;
 }
 .produtos h2 {
     font-size: 30px;
